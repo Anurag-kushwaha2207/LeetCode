@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## String
 |  |
 | ------- |
@@ -93,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+## Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
