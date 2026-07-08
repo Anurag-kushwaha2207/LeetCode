@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -81,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
