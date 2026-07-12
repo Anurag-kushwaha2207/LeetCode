@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0388-longest-absolute-file-path](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0321-create-maximum-number) |
+| [0388-longest-absolute-file-path](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Greedy
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
