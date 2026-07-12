@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
