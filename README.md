@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0403-frog-jump](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0403-frog-jump) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0403-frog-jump](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0403-frog-jump) |
 | [0576-out-of-boundary-paths](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
