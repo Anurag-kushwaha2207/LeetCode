@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0403-frog-jump](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
@@ -141,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
