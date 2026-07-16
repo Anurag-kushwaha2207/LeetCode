@@ -242,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
