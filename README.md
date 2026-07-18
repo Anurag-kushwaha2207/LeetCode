@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
+| [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
 | [1090-largest-values-from-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1090-largest-values-from-labels) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0763-partition-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [1090-largest-values-from-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
