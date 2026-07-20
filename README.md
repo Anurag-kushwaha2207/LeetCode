@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0473-matchsticks-to-square](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0576-out-of-boundary-paths](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 ## Memoization
