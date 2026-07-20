@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
+| [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
 | [0576-out-of-boundary-paths](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0388-longest-absolute-file-path](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0763-partition-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0763-partition-labels) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0321-create-maximum-number) |
 | [0388-longest-absolute-file-path](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Greedy
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 ## Bitmask
 |  |
