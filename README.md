@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0388-longest-absolute-file-path](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0763-partition-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [1090-largest-values-from-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1090-largest-values-from-labels) |
@@ -163,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 ## Math
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0473-matchsticks-to-square](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0413-arithmetic-slices](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0413-arithmetic-slices) |
 ## Simulation
 |  |
