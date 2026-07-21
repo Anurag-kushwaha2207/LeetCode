@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0553-optimal-division) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
