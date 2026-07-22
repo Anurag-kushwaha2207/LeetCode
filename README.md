@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0273-integer-to-english-words](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0388-longest-absolute-file-path](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0553-optimal-division) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0282-expression-add-operators) |
 | [0473-matchsticks-to-square](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0526-beautiful-arrangement) |
