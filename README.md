@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0180-consecutive-numbers) |
 ## Combinatorics
 |  |
