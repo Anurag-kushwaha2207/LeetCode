@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0553-optimal-division) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
@@ -327,9 +328,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0264-ugly-number-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
