@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1366-rank-teams-by-votes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1366-rank-teams-by-votes) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1366-rank-teams-by-votes) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Ordered Set
+|  |
+| ------- |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 <!---LeetCode Topics End-->
