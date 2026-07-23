@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
