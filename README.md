@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
