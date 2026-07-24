@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1366-rank-teams-by-votes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1366-rank-teams-by-votes) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1090-largest-values-from-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1090-largest-values-from-labels) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1366-rank-teams-by-votes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1366-rank-teams-by-votes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
