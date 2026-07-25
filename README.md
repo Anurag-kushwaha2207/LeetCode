@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 | [0664-strange-printer](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0688-knight-probability-in-chessboard](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
