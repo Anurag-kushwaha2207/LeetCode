@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0860-lemonade-change) |
 | [0946-validate-stack-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
