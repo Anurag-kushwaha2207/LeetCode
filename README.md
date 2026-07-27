@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0946-validate-stack-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0763-partition-labels) |
 | [0765-couples-holding-hands](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0765-couples-holding-hands) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
