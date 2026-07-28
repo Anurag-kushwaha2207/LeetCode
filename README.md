@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0384-shuffle-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0403-frog-jump](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0292-nim-game) |
+| [0384-shuffle-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -472,4 +474,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
