@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [1090-largest-values-from-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1090-largest-values-from-labels) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
