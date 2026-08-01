@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1328-break-a-palindrome) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1323-maximum-69-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1323-maximum-69-number) |
+| [1330-reverse-subarray-to-maximize-array-value](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
