@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1328-break-a-palindrome](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1348-tweet-counts-per-frequency](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1348-tweet-counts-per-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1366-rank-teams-by-votes) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1328-break-a-palindrome](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
