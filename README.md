@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0740-delete-and-earn) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0860-lemonade-change) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0730-count-different-palindromic-subsequences) |
+| [0740-delete-and-earn](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0877-stone-game) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0740-delete-and-earn](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [1090-largest-values-from-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1090-largest-values-from-labels) |
