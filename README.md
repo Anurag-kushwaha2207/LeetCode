@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0860-lemonade-change) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0877-stone-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0877-stone-game) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0413-arithmetic-slices](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Simulation
 |  |
 | ------- |
