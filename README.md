@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0860-lemonade-change) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0877-stone-game) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -310,11 +312,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 ## Math
 |  |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0441-arranging-coins) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -495,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Simulation
 |  |
 | ------- |
