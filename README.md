@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0730-count-different-palindromic-subsequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0877-stone-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0877-stone-game) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0664-strange-printer](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0664-strange-printer) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0730-count-different-palindromic-subsequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0763-partition-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
