@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0860-lemonade-change) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0877-stone-game) |
 | [1024-video-stitching](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1024-video-stitching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -469,12 +472,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
 |  |
 | ------- |
 | [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
 | ------- |
@@ -482,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Sliding Window
 |  |
 | ------- |
