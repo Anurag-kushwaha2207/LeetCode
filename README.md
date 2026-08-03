@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0441-arranging-coins) |
 | [0470-implement-rand10-using-rand7](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0470-implement-rand10-using-rand7](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Data Stream
 |  |
 | ------- |
@@ -610,8 +612,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Geometry
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
