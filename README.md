@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1406-stone-game-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1406-stone-game-iii) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
+| [1406-stone-game-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1406-stone-game-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -589,4 +593,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
