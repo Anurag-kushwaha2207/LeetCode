@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0441-arranging-coins) |
+| [0470-implement-rand10-using-rand7](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0470-implement-rand10-using-rand7](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 ## Data Stream
 |  |
 | ------- |
@@ -601,4 +603,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1406-stone-game-iii) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
