@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0470-implement-rand10-using-rand7](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
