@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0553-optimal-division](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
