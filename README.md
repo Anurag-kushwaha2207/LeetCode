@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
