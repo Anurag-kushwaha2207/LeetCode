@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1090-largest-values-from-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1094-car-pooling) |
+| [1096-brace-expansion-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [1090-largest-values-from-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1090-largest-values-from-labels) |
+| [1096-brace-expansion-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
 | [0617-merge-two-binary-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0765-couples-holding-hands](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0765-couples-holding-hands) |
+| [1096-brace-expansion-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -551,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1096-brace-expansion-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
 |  |
