@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1187-make-array-strictly-increasing](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1187-make-array-strictly-increasing) |
+| [1202-smallest-string-with-swaps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1187-make-array-strictly-increasing](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1187-make-array-strictly-increasing) |
+| [1202-smallest-string-with-swaps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1169-invalid-transactions](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1202-smallest-string-with-swaps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1328-break-a-palindrome](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1328-break-a-palindrome) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1122-relative-sort-array) |
 | [1169-invalid-transactions](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1202-smallest-string-with-swaps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0765-couples-holding-hands](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0765-couples-holding-hands) |
+| [1202-smallest-string-with-swaps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -507,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0765-couples-holding-hands](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0765-couples-holding-hands) |
 | [1096-brace-expansion-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1202-smallest-string-with-swaps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -524,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0765-couples-holding-hands) |
+| [1202-smallest-string-with-swaps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
