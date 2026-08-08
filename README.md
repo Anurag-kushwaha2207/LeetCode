@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1406-stone-game-iii) |
 | [1478-allocate-mailboxes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1478-allocate-mailboxes) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Rolling Hash
