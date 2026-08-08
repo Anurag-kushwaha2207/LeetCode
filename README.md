@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1122-relative-sort-array) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1169-invalid-transactions](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1169-invalid-transactions) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1122-relative-sort-array) |
+| [1169-invalid-transactions](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1169-invalid-transactions) |
 | [1288-remove-covered-intervals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1169-invalid-transactions](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1169-invalid-transactions) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1328-break-a-palindrome](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1328-break-a-palindrome) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1096-brace-expansion-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1122-relative-sort-array) |
+| [1169-invalid-transactions](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1169-invalid-transactions) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1331-rank-transform-of-an-array) |
