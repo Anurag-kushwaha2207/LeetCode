@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
