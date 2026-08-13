@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
