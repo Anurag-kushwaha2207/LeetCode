@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
