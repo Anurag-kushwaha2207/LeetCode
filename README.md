@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1478-allocate-mailboxes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1478-allocate-mailboxes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1488-avoid-flood-in-the-city](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1488-avoid-flood-in-the-city) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1488-avoid-flood-in-the-city](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1488-avoid-flood-in-the-city) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1488-avoid-flood-in-the-city](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1488-avoid-flood-in-the-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1348-tweet-counts-per-frequency](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1348-tweet-counts-per-frequency) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1488-avoid-flood-in-the-city](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1488-avoid-flood-in-the-city) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1405-longest-happy-string) |
 | [1424-diagonal-traverse-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1488-avoid-flood-in-the-city](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1488-avoid-flood-in-the-city) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 ## Brainteaser
 |  |
