@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-tweet-counts-per-frequency](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1348-tweet-counts-per-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1366-rank-teams-by-votes) |
 | [1400-construct-k-palindrome-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
+| [1405-longest-happy-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1405-longest-happy-string) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1402-reducing-dishes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1405-longest-happy-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1405-longest-happy-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
+| [1405-longest-happy-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1405-longest-happy-string) |
 | [1424-diagonal-traverse-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
