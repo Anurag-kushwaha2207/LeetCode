@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1405-longest-happy-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1405-longest-happy-string) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1363-largest-multiple-of-three) |
 | [1406-stone-game-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1478-allocate-mailboxes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
