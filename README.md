@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1529-minimum-suffix-flips) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1488-avoid-flood-in-the-city](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1488-avoid-flood-in-the-city) |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -770,10 +772,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Divide and Conquer
 |  |
