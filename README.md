@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
