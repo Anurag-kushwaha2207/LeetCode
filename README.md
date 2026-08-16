@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-minimize-deviation-in-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1675-minimize-deviation-in-array) |
 | [1686-stone-game-vi](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1686-stone-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-minimize-deviation-in-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1675-minimize-deviation-in-array) |
 | [1686-stone-game-vi](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1686-stone-game-vi) |
 | [1702-maximum-binary-string-after-change](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1702-maximum-binary-string-after-change) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1610-maximum-number-of-visible-points](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1610-maximum-number-of-visible-points) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
