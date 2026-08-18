@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1610-maximum-number-of-visible-points) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
+| [1630-arithmetic-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1610-maximum-number-of-visible-points) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
+| [1630-arithmetic-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1686-stone-game-vi) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1630-arithmetic-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
