@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1630-arithmetic-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1630-arithmetic-subarrays) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1630-arithmetic-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1630-arithmetic-subarrays) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1686-stone-game-vi) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0765-couples-holding-hands) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0765-couples-holding-hands) |
 | [1202-smallest-string-with-swaps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
@@ -948,4 +953,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Topological Sort
+|  |
+| ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
 <!---LeetCode Topics End-->
