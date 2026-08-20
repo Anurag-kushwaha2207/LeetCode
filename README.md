@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1702-maximum-binary-string-after-change](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1702-maximum-binary-string-after-change) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
