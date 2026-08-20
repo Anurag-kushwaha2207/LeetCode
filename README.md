@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1702-maximum-binary-string-after-change](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1702-maximum-binary-string-after-change) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1754-largest-merge-of-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1739-building-boxes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1739-building-boxes) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
+| [1754-largest-merge-of-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1537-get-the-maximum-score](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1537-get-the-maximum-score) |
+| [1754-largest-merge-of-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
