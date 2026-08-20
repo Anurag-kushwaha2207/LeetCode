@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1710-maximum-units-on-a-truck](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-building-boxes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1739-building-boxes) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1754-largest-merge-of-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1537-get-the-maximum-score](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [1754-largest-merge-of-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -978,4 +981,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1632-rank-transform-of-a-matrix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
+## String Matching
+|  |
+| ------- |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 <!---LeetCode Topics End-->
