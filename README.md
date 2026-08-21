@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
