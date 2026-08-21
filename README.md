@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1686-stone-game-vi) |
 | [1739-building-boxes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1739-building-boxes) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1739-building-boxes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1739-building-boxes) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
