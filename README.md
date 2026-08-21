@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1710-maximum-units-on-a-truck](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1739-building-boxes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1739-building-boxes) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
