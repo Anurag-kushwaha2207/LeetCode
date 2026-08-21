@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
