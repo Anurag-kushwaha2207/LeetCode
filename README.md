@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1824-minimum-sideway-jumps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1824-minimum-sideway-jumps) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1824-minimum-sideway-jumps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1824-minimum-sideway-jumps) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
