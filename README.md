@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1824-minimum-sideway-jumps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1563-stone-game-v) |
 | [1626-best-team-with-no-conflicts](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1824-minimum-sideway-jumps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1824-minimum-sideway-jumps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
