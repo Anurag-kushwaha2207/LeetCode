@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1754-largest-merge-of-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
