@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1936-add-minimum-number-of-rungs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
+| [1946-largest-number-after-mutating-substring](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1946-largest-number-after-mutating-substring) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1881-maximum-value-after-insertion](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1881-maximum-value-after-insertion) |
 | [1903-largest-odd-number-in-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1927-sum-game) |
+| [1946-largest-number-after-mutating-substring](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1946-largest-number-after-mutating-substring) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1927-sum-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
+| [1946-largest-number-after-mutating-substring](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1946-largest-number-after-mutating-substring) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
