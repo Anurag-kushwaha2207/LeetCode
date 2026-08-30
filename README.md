@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1881-maximum-value-after-insertion](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1881-maximum-value-after-insertion) |
+| [1903-largest-odd-number-in-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1881-maximum-value-after-insertion](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1881-maximum-value-after-insertion) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1903-largest-odd-number-in-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1739-building-boxes](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1739-building-boxes) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
