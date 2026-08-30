@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1936-add-minimum-number-of-rungs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1946-largest-number-after-mutating-substring](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1946-largest-number-after-mutating-substring) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1946-largest-number-after-mutating-substring](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1946-largest-number-after-mutating-substring) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2029-stone-game-ix](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
