@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-minimize-deviation-in-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1675-minimize-deviation-in-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1686-stone-game-vi) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1563-stone-game-v) |
 | [1626-best-team-with-no-conflicts](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1686-stone-game-vi) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1710-maximum-units-on-a-truck](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
