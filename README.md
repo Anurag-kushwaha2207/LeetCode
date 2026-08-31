@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1675-minimize-deviation-in-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1675-minimize-deviation-in-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1686-stone-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1537-get-the-maximum-score](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1537-get-the-maximum-score) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1754-largest-merge-of-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
