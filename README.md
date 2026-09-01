@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0388-longest-absolute-file-path](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0412-fizz-buzz](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0412-fizz-buzz) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -737,12 +740,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -751,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0488-zuma-game](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0488-zuma-game) |
 | [0617-merge-two-binary-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0765-couples-holding-hands](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0765-couples-holding-hands) |
@@ -957,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1348-tweet-counts-per-frequency](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1348-tweet-counts-per-frequency) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Randomized
