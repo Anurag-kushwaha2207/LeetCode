@@ -716,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0463-island-perimeter) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
