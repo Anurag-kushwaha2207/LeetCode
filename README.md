@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0217-contains-duplicate](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0217-contains-duplicate) |
 | [0321-create-maximum-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
