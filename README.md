@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0217-contains-duplicate) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Anurag-kushwaha2207/LeetCode/tree/master/0273-integer-to-english-words) |
